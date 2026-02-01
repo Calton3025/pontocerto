@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Ponto Certo – Previsões de Futebol em Moçambique</title>
+  <meta name="description" content="Site oficial do Ponto Certo – previsões e análises de futebol em Moçambique. Conteúdo informativo, sem apostas.">
+  <style>
+    body {font-family: Arial, sans-serif; margin:0; background:#f5f6fa; color:#222;}
+    header {background:#0a3d62; color:#fff; padding:20px; text-align:center;}
+    header h1 {margin:0; font-size:32px;}
+    header p {margin:5px 0 0; font-size:16px;}
+    nav {background:#1e3799; padding:10px; text-align:center;}
+    nav a {color:#fff; margin:0 10px; text-decoration:none; font-weight:bold;}
+    section {padding:40px 20px; max-width:1000px; margin:auto;}
+    .box {background:#fff; padding:25px; border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.08); margin-bottom:25px;}
+    h2 {color:#0a3d62;}
+    .previsao {border-left:4px solid #1e3799; padding-left:15px; margin:15px 0;}
+    footer {background:#0a3d62; color:#fff; text-align:center; padding:20px; font-size:14px;}
+    .btn {display:inline-block; background:#1e3799; color:#fff; padding:12px 20px; border-radius:25px; text-decoration:none; margin-top:10px;}
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>PONTO CERTO</h1>
+  <p>Análise antes do palpite</p>
+</header>
+
+<nav>
+  <a href="#sobre">Sobre</a>
+  <a href="#previsoes">Previsões</a>
+  <a href="#vip">VIP</a>
+  <a href="#contacto">Contacto</a>
+</nav>
+
+<section id="sobre">
+  <div class="box">
+    <h2>Sobre o Ponto Certo</h2>
+    <p>O <strong>Ponto Certo</strong> é uma plataforma de previsões e análises desportivas focada no futebol em Moçambique. O nosso objetivo é ajudar os utilizadores a compreender melhor os jogos através de estatísticas, forma das equipas e leitura lógica.</p>
+    <p><strong>Não somos casa de apostas</strong> e não recebemos dinheiro para apostas. Todo o conteúdo é apenas informativo.</p>
+  </div>
+</section>
+
+<section id="previsoes">
+  <div class="box">
+    <h2>Previsões Recentes</h2>
+
+    <div class="previsao">
+      <p><strong>⚽ Real Madrid vs Valencia</strong></p>
+      <p>📌 Mercado: Vitória do Real Madrid</p>
+      <p>📈 Confiança: Alta</p>
+      <p>🧠 Análise: Superioridade técnica e bom histórico em casa.</p>
+    </div>
+
+    <div class="previsao">
+      <p><strong>⚽ Man City vs Aston Villa</strong></p>
+      <p>📌 Mercado: Mais de 2.5 golos</p>
+      <p>📈 Confiança: Alta</p>
+      <p>🧠 Análise: Ataques fortes e média elevada de golos.</p>
+    </div>
+
+  </div>
+</section>
+
+<section id="vip">
+  <div class="box">
+    <h2>Grupo VIP</h2>
+    <p>No <strong>VIP Ponto Certo</strong> tens acesso a previsões exclusivas, análises mais detalhadas e melhor gestão de risco.</p>
+    <ul>
+      <li>📲 Previsões diárias</li>
+      <li>📊 Análises detalhadas</li>
+      <li>⚠️ Gestão de risco</li>
+    </ul>
+    <p><strong>Preços:</strong></p>
+    <p>✔ VIP semanal: 150 MZN<br>✔ VIP mensal: 400 MZN</p>
+    <a class="btn" href="#contacto">Entrar no VIP</a>
+  </div>
+</section>
+
+<section id="contacto">
+  <div class="box">
+    <h2>Contacto</h2>
+    <p>📩 WhatsApp: +258 XXX XXX XXX</p>
+    <p>📷 Instagram: @pontocerto.oficial</p>
+  </div>
+</section>
+
+<footer>
+  <p>⚠️ Aviso legal: O Ponto Certo não garante resultados. As previsões são apenas informativas. Aposte com responsabilidade.</p>
+  <p>© 2026 Ponto Certo</p>
+</footer>
+
+</body>
+</html>
